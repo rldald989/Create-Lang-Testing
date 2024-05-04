@@ -1,0 +1,8 @@
+int l = 5
+int i = 1
+int v = 2
+float i = 2.5
+
+float a = 1.23
+
+bool t = false
